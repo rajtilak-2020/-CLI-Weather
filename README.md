@@ -10,7 +10,7 @@ A simple batch script that fetches and displays weather information directly fro
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/rajtilak-2020/CLI Weather.git
+   git clone https://github.com/rajtilak-2020/CLI-Weather.git
    ```
 2. Navigate to the directory:
    ```sh
