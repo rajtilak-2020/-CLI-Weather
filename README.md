@@ -1,6 +1,6 @@
 # Weather CLI Tool
 
-A simple batch script that fetches and displays weather information directly from the command line.
+A simple batch script that fetches and displays weather information directly from the command line. (by default its set to Cuttack location you can modify the location by simply opening this file in the notepad).
 
 ## Features
 - Fetch weather updates using a simple command.
